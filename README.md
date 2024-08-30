@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fazalbari8
-- 👀 I’m interested in coding.
+- 👀 I’m interested in Frontend development, web design, and UI/UX..
 - 🌱 I’m currently learning Next js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "rehmanali29102005@gmail.com"
